@@ -1,3 +1,7 @@
+# Read only - potentially out of date!
+
+Please use the upstream developers repo: https://github.com/superfell/iracing-telem
+
 # iracing-telem
 
 This is a Rust port of the iRacing SDK for accessing telementry from a running instance of iRacing.
